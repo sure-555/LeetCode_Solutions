@@ -24,10 +24,19 @@ All solutions in this repository are written by me and automatically synced stra
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sure-555/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sure-555/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sure-555/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sure-555/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sure-555/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sure-555/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
