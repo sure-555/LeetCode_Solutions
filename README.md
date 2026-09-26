@@ -16,6 +16,7 @@ All solutions in this repository are written by me and automatically synced stra
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sure-555/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sure-555/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -38,9 +39,18 @@ All solutions in this repository are written by me and automatically synced stra
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sure-555/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sure-555/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sure-555/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sure-555/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sure-555/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/sure-555/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
