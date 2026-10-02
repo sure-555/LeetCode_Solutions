@@ -53,4 +53,8 @@ All solutions in this repository are written by me and automatically synced stra
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sure-555/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sure-555/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
