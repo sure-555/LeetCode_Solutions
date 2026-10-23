@@ -16,6 +16,7 @@ All solutions in this repository are written by me and automatically synced stra
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sure-555/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sure-555/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sure-555/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
@@ -62,4 +63,12 @@ All solutions in this repository are written by me and automatically synced stra
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sure-555/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sure-555/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sure-555/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
