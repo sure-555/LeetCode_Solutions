@@ -12,11 +12,13 @@ All solutions in this repository are written by me and automatically synced stra
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sure-555/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/sure-555/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sure-555/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/sure-555/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sure-555/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/sure-555/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sure-555/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/sure-555/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
